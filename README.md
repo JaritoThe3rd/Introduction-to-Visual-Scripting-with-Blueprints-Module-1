@@ -65,4 +65,4 @@ But once you packaged the game and that blueprint script running in the backgrou
 
 Fun fact: People tend to argue that blueprints are a lot slower compared to C++. But the instructor for Epic games stated that in the early stages of blueprints that was a strong case.
 
-There are elements where it will run better in C++. but for the most part it is negligible.
+There are elements where it will run better in C++. but for the most part it is negligible. (Most optimizationa are really important on the rendering instead of coding side of things.)
