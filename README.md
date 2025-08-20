@@ -148,3 +148,19 @@ The new orange blueprint basically calls to the parent event from the original b
 By the time you walk past both the parent and child blueprint classes. Then you will activate their print strings too.
 
 
+<img width="1294" height="659" alt="image" src="https://github.com/user-attachments/assets/a12c78ae-2cc5-4f7f-8dc2-fa8430545f97" />
+
+
+<img width="1895" height="1034" alt="image" src="https://github.com/user-attachments/assets/8b37b7f1-b6e1-4b15-90a2-f896230b668e" />
+
+
+Flow Control
+Basically code syntax of blueprints
+
+
+<img width="1882" height="821" alt="image" src="https://github.com/user-attachments/assets/7c4e5aa6-1b29-4c82-b8aa-2154a6ccb128" />
+
+
+<img width="1911" height="576" alt="image" src="https://github.com/user-attachments/assets/2064d3f0-2b80-48d4-b765-7ec99420a717" />
+
+
