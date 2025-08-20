@@ -134,3 +134,17 @@ Basically transferring your settings such as viewport meshes and event graphs in
 
 
 The new orange blueprint basically calls to the parent event from the original blueprint actor class.
+
+
+<img width="3432" height="1353" alt="image" src="https://github.com/user-attachments/assets/f0a01eab-eb89-4a0a-b7a4-6e4e909e1967" />
+
+
+<img width="3418" height="1061" alt="image" src="https://github.com/user-attachments/assets/e22d722d-2b79-4cdd-a64f-374cfda826e9" />
+
+
+<img width="2738" height="1033" alt="image" src="https://github.com/user-attachments/assets/dbe1a229-ef2d-4615-9111-4df36a20cf30" />
+
+
+By the time you walk past both the parent and child blueprint classes. Then you will activate their print strings too.
+
+
