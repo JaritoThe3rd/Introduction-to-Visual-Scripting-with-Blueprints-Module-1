@@ -164,3 +164,34 @@ Basically code syntax of blueprints
 <img width="1911" height="576" alt="image" src="https://github.com/user-attachments/assets/2064d3f0-2b80-48d4-b765-7ec99420a717" />
 
 
+<img width="1037" height="560" alt="image" src="https://github.com/user-attachments/assets/6ee22a25-3833-4f7b-b90d-9c206f20e9a2" />
+
+
+<img width="1220" height="649" alt="image" src="https://github.com/user-attachments/assets/f896153e-c06e-4834-8c1c-cf5ca506faad" />
+
+
+<img width="3439" height="1349" alt="image" src="https://github.com/user-attachments/assets/1b4dc175-85c1-4fe5-a774-7f7866dc86a8" />
+
+
+Making a door
+Add a Cube component and box collision and make sure that they're separate and not parented to each other.
+
+
+<img width="524" height="328" alt="image" src="https://github.com/user-attachments/assets/0531e819-439a-456c-a274-a299fd9d21c0" />
+
+Separate
+
+
+<img width="504" height="319" alt="image" src="https://github.com/user-attachments/assets/60c0622e-1d1d-4328-9a7e-643c8e679d37" />
+
+
+Parented
+
+
+<img width="875" height="718" alt="image" src="https://github.com/user-attachments/assets/7cfb5f18-4438-444b-9474-08056d943cdf" />
+
+
+<img width="512" height="124" alt="image" src="https://github.com/user-attachments/assets/026a85c0-16e9-4127-8a83-8db3574bbbb1" />
+
+
+Make two new functions for unlocking and closing door.
