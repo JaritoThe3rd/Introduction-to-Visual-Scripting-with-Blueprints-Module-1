@@ -195,3 +195,39 @@ Parented
 
 
 Make two new functions for unlocking and closing door.
+
+
+<img width="824" height="676" alt="image" src="https://github.com/user-attachments/assets/1dce13ee-d940-480b-aab0-d963aa16e669" />
+
+
+
+<img width="3387" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e926827-433c-4632-b54c-27569410529c" />
+
+
+
+<img width="1309" height="701" alt="image" src="https://github.com/user-attachments/assets/4be4854d-2b4a-4773-9754-6be251d72165" />
+
+
+<img width="2477" height="1127" alt="image" src="https://github.com/user-attachments/assets/bc83d73f-5fdc-43f1-9ca6-796382962523" />
+
+
+
+<img width="1651" height="427" alt="image" src="https://github.com/user-attachments/assets/5456a346-478d-4e7f-83db-9825a0bb5552" />
+
+
+Using the two custom events called "Open Door" and "Close Door" and connecting into a timeline node to open the door then setting the position with a multiplier to move the door
+
+Eventually using the cube component as a target object to move the location.
+
+
+<img width="1515" height="264" alt="image" src="https://github.com/user-attachments/assets/9b416b97-79bc-43e2-8eb3-6b7790807108" />
+
+
+<img width="1582" height="220" alt="image" src="https://github.com/user-attachments/assets/640f6550-7227-4fdc-b0b0-0719e1557b61" />
+
+
+Using Event overlaps for both opening and closing the door.
+
+
+<img width="3438" height="1357" alt="image" src="https://github.com/user-attachments/assets/03f78bb5-6a55-4879-b70b-20ee8b27bfb7" />
+
