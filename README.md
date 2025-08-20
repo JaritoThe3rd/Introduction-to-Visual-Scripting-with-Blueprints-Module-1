@@ -21,3 +21,16 @@
 This checked box only shows functions that's only available for that specific node.
 
 
+<img width="1035" height="784" alt="image" src="https://github.com/user-attachments/assets/36fbdbe5-a69d-4ec1-809d-5973c6475002" />
+
+
+Clicking expand on the node and dragging "Hit Actor" will make it easier to find specific functions that are meant for that node.
+
+
+<img width="1353" height="653" alt="image" src="https://github.com/user-attachments/assets/467bad20-d60f-4d2d-99e0-017aad7c92db" />
+
+
+<img width="1435" height="796" alt="image" src="https://github.com/user-attachments/assets/16a17070-d55d-4e74-9ecf-d05f39c6f2ec" />
+
+
+Pay attention on the Axis on the bottom left corner which tells you where your static mesh is placed once in the real world.
