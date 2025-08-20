@@ -244,3 +244,22 @@ Dragging Variables
 <img width="1391" height="531" alt="image" src="https://github.com/user-attachments/assets/e925d003-0550-4f4c-b766-97fc10344af5" />
 
 It is ideal to drag and drop onto the pin.
+
+
+<img width="1513" height="387" alt="image" src="https://github.com/user-attachments/assets/64f2fcc4-6ebb-4b83-8dc2-611367426b21" />
+
+
+<img width="979" height="576" alt="image" src="https://github.com/user-attachments/assets/f0c0fe6f-f270-4304-876d-1ac104427497" />
+
+
+<img width="810" height="482" alt="image" src="https://github.com/user-attachments/assets/2e2332f0-6a9a-4d7e-aaa5-98105f41ca61" />
+
+
+<img width="1281" height="693" alt="image" src="https://github.com/user-attachments/assets/edfd99a6-12a6-4bf2-aa39-b75bdc9f6eda" />
+
+
+
+<img width="1183" height="369" alt="image" src="https://github.com/user-attachments/assets/825c4560-7545-44c9-9363-a74a9a4abf2d" />
+
+
+<img width="765" height="597" alt="image" src="https://github.com/user-attachments/assets/c13acb49-7ec6-4bcf-a032-bc721eaea8ca" />
