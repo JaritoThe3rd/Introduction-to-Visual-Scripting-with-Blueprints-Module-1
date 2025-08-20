@@ -61,3 +61,6 @@ Keep in mind that blueprints and code are actively translating the functions whi
 
 
 But once you packaged the game and that blueprint script running in the background will be gone since it is fully packaged. (Packaged build will run a bit better)
+
+
+Fun fact: People tend to argue that blueprints are a lot slower compared to C++. But the instructor for Epic games stated that in the early stages of blueprints that was a strong case.
