@@ -78,3 +78,10 @@ There are elements where it will run better in C++. but for the most part it is 
 <img width="1176" height="419" alt="image" src="https://github.com/user-attachments/assets/a0f8fc1a-9c10-45ab-8e29-24ad13fce92b" />
 
 
+<img width="1180" height="669" alt="image" src="https://github.com/user-attachments/assets/ec9afae9-7e38-472e-b19b-062f42f1aa7f" />
+
+
+<img width="1610" height="760" alt="image" src="https://github.com/user-attachments/assets/44d06de2-b385-4068-bf24-ed37811883dd" />
+
+
+Take advantage of Delay function and print string for testing blueprints.
