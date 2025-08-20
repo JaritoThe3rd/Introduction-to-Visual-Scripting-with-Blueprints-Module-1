@@ -60,4 +60,4 @@ When you're changing the turret it will be considered an instance and it will no
 Keep in mind that blueprints and code are actively translating the functions while you're playing in the editor.
 
 
-But once you packaged the game and that blueprint script running in the background will be gone since it is fully packaged.
+But once you packaged the game and that blueprint script running in the background will be gone since it is fully packaged. (Packaged build will run a bit better)
