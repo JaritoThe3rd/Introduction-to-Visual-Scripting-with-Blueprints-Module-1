@@ -273,3 +273,11 @@ It is ideal to drag and drop onto the pin.
 
 
 So our goal is to add a point light into our cube and making the light status change based on the Unlock and lock status.
+
+
+<img width="3439" height="1358" alt="image" src="https://github.com/user-attachments/assets/94d44a69-5ac5-45a2-a65c-f7e77eb47e2c" />
+
+Construction Script
+Runs its code everytime the object is first created, but this also includes when its first created in the editor.
+
+We tend to use constructions script to see and visualize the code acting upon the actor straight away.
