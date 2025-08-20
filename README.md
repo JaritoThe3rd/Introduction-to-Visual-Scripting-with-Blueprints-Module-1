@@ -84,4 +84,4 @@ There are elements where it will run better in C++. but for the most part it is 
 <img width="1610" height="760" alt="image" src="https://github.com/user-attachments/assets/44d06de2-b385-4068-bf24-ed37811883dd" />
 
 
-Take advantage of Delay function and print string for testing blueprints.
+Take advantage of Delay function (When a blueprint has a clock Icon it cannot be inside a function!!!) and print string for testing blueprints.
