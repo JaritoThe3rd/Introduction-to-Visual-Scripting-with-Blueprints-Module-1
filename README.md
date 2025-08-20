@@ -34,3 +34,20 @@ Clicking expand on the node and dragging "Hit Actor" will make it easier to find
 
 
 Pay attention on the Axis on the bottom left corner which tells you where your static mesh is placed once in the real world.
+
+
+<img width="3428" height="1438" alt="image" src="https://github.com/user-attachments/assets/2620e628-dfef-4ca0-8e17-39c0fcd8e3d5" />
+
+
+<img width="608" height="169" alt="image" src="https://github.com/user-attachments/assets/526b0e56-98b4-48cc-8a42-64e404bfb792" />
+
+
+Whenever they mention that the point light and weapon component is childed to that mesh it basically means it is connected to its parent or inside the mesh
+
+
+<img width="2900" height="936" alt="image" src="https://github.com/user-attachments/assets/db1c0a88-25c9-4471-8321-586b1ab86d45" />
+
+
+When you're changing the turret it will be considered an instance and it will not change the original state of that blueprint actor (Turret). Each changes within the map would be an instance on its own and not the original at all.
+
+
