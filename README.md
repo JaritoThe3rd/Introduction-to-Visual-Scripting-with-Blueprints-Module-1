@@ -231,3 +231,16 @@ Using Event overlaps for both opening and closing the door.
 
 <img width="3438" height="1357" alt="image" src="https://github.com/user-attachments/assets/03f78bb5-6a55-4879-b70b-20ee8b27bfb7" />
 
+
+<img width="1297" height="657" alt="image" src="https://github.com/user-attachments/assets/ada30a4c-9941-4767-ba18-723618ed2325" />
+
+
+<img width="1371" height="824" alt="image" src="https://github.com/user-attachments/assets/5965aee7-7898-4466-a3a7-a0bf6b6617c2" />
+
+Dragging Variables
+"Get" means if you want to read the variable and "Set" means if you want to change it.
+
+
+<img width="1391" height="531" alt="image" src="https://github.com/user-attachments/assets/e925d003-0550-4f4c-b766-97fc10344af5" />
+
+It is ideal to drag and drop onto the pin.
