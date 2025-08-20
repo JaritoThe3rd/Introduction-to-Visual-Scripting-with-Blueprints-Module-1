@@ -281,3 +281,22 @@ Construction Script
 Runs its code everytime the object is first created, but this also includes when its first created in the editor.
 
 We tend to use constructions script to see and visualize the code acting upon the actor straight away.
+
+
+<img width="968" height="769" alt="image" src="https://github.com/user-attachments/assets/edee48bd-1e14-4b8b-bfe1-f41966a5c514" />
+
+
+<img width="1022" height="514" alt="image" src="https://github.com/user-attachments/assets/130d939c-0994-49a1-8053-e90c0b0b8902" />
+
+
+Using the select color function is a lot better for readability.
+
+
+<img width="3430" height="1369" alt="image" src="https://github.com/user-attachments/assets/d50e816e-d3f3-48f2-b72e-03150edce8b3" />
+
+
+<img width="1581" height="675" alt="image" src="https://github.com/user-attachments/assets/1ed44fba-35e0-4074-b314-ccf8206c3338" />
+
+
+
+<img width="1409" height="688" alt="image" src="https://github.com/user-attachments/assets/2ad487d6-3ee5-4fea-98dc-eb4a2324c437" />
