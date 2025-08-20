@@ -111,4 +111,13 @@ The "Event ActorBeginOverlap" is when any other actor overlaps other actors.
 The "Event Tick" blueprint runs when the game is running at 60 FPS. So does the Event Tick blueprint.
 
 
+<img width="1966" height="1013" alt="image" src="https://github.com/user-attachments/assets/50de7ae6-14f3-425a-ac7b-8c9cbd75182f" />
 
+
+<img width="878" height="377" alt="image" src="https://github.com/user-attachments/assets/41bd9eaf-cd3a-4bdc-b26d-176549a3aa62" />
+
+
+<img width="1234" height="658" alt="image" src="https://github.com/user-attachments/assets/2f4f1cdd-4ebc-4d72-ba9f-cbd04a2ed2c4" />
+
+
+By the time you added a cube and a box collision then setting the Overlap blueprint to print string "Overlapped" then you just made a pressure plate.
