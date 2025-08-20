@@ -298,5 +298,57 @@ Using the select color function is a lot better for readability.
 <img width="1581" height="675" alt="image" src="https://github.com/user-attachments/assets/1ed44fba-35e0-4074-b314-ccf8206c3338" />
 
 
-
 <img width="1409" height="688" alt="image" src="https://github.com/user-attachments/assets/2ad487d6-3ee5-4fea-98dc-eb4a2324c437" />
+
+
+<img width="1346" height="661" alt="image" src="https://github.com/user-attachments/assets/14e76ceb-aa8f-4ba9-8259-a2322e3aaae3" />
+
+
+<img width="993" height="849" alt="image" src="https://github.com/user-attachments/assets/b8ada67c-f3de-4f21-9402-57f08b1cb1a7" />
+
+
+Making a button that it looks like its being pressed by adding the cube actor and connecting into Set Relative Location to make it looked pressed. Then resetting it, but we will encounter infinite loop.
+
+
+<img width="2194" height="1028" alt="image" src="https://github.com/user-attachments/assets/f019b8a7-b74c-42a5-9bbe-ba17e602e748" />
+
+
+Because our box collision is attached to our cube.
+
+
+<img width="897" height="573" alt="image" src="https://github.com/user-attachments/assets/06652030-cb30-46f0-a1cc-634e7e1637a9" />
+
+
+We need to detach the box collision from our cube.
+
+
+<img width="1218" height="671" alt="image" src="https://github.com/user-attachments/assets/91832316-588d-4720-8532-49bb3dd4043d" />
+
+
+<img width="1595" height="519" alt="image" src="https://github.com/user-attachments/assets/e3a457d4-8566-4ebc-a3c6-0f7219608303" />
+
+Adding these functions so we can add a timer before the door is locked.
+
+
+<img width="388" height="377" alt="image" src="https://github.com/user-attachments/assets/25a8a673-4f1e-4143-b505-03ffe361be73" />
+
+
+<img width="763" height="373" alt="image" src="https://github.com/user-attachments/assets/0bd7d4a4-219e-466f-afdd-e24cdfc3be4c" />
+
+
+<img width="943" height="621" alt="image" src="https://github.com/user-attachments/assets/62017c00-654c-48b2-a79d-be53fd74943b" />
+
+
+We don't want ButtonUntriggered to be called out so delete the Call On Button Triggered.
+
+
+<img width="2066" height="1128" alt="image" src="https://github.com/user-attachments/assets/8fb78f34-51ca-4182-a3b7-329b9f5f1a4f" />
+
+
+So we can change the variable in the editor enable instance editable
+
+
+<img width="3428" height="1318" alt="image" src="https://github.com/user-attachments/assets/bd46e050-7765-48ad-a620-2d6e9c4dc50b" />
+
+
+Make sure the timer blueprints are on the ButtonUntriggered that was wrong that we placed it in the ButtonTriggered.
