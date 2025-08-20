@@ -85,3 +85,30 @@ There are elements where it will run better in C++. but for the most part it is 
 
 
 Take advantage of Delay function (When a blueprint has a clock Icon it cannot be inside a function!!!) and print string for testing blueprints.
+
+
+<img width="1179" height="663" alt="image" src="https://github.com/user-attachments/assets/1fb67269-02d1-46ef-a99d-fed6eecf7194" />
+
+
+<img width="1319" height="663" alt="image" src="https://github.com/user-attachments/assets/c8866a51-8ead-4d95-aefa-e9fa15109f54" />
+
+
+<img width="805" height="283" alt="image" src="https://github.com/user-attachments/assets/38c9f80e-0150-4648-ae4b-083d35c6e007" />
+
+
+The "Event BeginPlay" blueprint start right away when the games starts
+
+
+<img width="895" height="225" alt="image" src="https://github.com/user-attachments/assets/243013e4-edcf-4f08-99f8-d96373162632" />
+
+
+The "Event ActorBeginOverlap" is when any other actor overlaps other actors.
+
+
+<img width="521" height="221" alt="image" src="https://github.com/user-attachments/assets/982002ea-2655-4164-bc87-c2421943b032" />
+
+
+The "Event Tick" blueprint runs when the game is running at 60 FPS. So does the Event Tick blueprint.
+
+
+
