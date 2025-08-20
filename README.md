@@ -121,3 +121,16 @@ The "Event Tick" blueprint runs when the game is running at 60 FPS. So does the 
 
 
 By the time you added a cube and a box collision then setting the Overlap blueprint to print string "Overlapped" then you just made a pressure plate.
+
+
+<img width="3439" height="1340" alt="image" src="https://github.com/user-attachments/assets/92778f92-61d5-4836-b14c-355c5f937ab7" />
+
+
+Creating a Child Class
+Basically transferring your settings such as viewport meshes and event graphs into another blueprint actor. Except you're not be able to make changes to the original.
+
+
+<img width="3439" height="1370" alt="image" src="https://github.com/user-attachments/assets/f445222c-8361-4847-b746-f800db9ce244" />
+
+
+The new orange blueprint basically calls to the parent event from the original blueprint actor class.
