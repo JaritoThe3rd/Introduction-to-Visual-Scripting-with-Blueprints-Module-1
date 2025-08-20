@@ -237,11 +237,13 @@ Using Event overlaps for both opening and closing the door.
 
 <img width="1371" height="824" alt="image" src="https://github.com/user-attachments/assets/5965aee7-7898-4466-a3a7-a0bf6b6617c2" />
 
+
 Dragging Variables
 "Get" means if you want to read the variable and "Set" means if you want to change it.
 
 
 <img width="1391" height="531" alt="image" src="https://github.com/user-attachments/assets/e925d003-0550-4f4c-b766-97fc10344af5" />
+
 
 It is ideal to drag and drop onto the pin.
 
@@ -258,8 +260,16 @@ It is ideal to drag and drop onto the pin.
 <img width="1281" height="693" alt="image" src="https://github.com/user-attachments/assets/edfd99a6-12a6-4bf2-aa39-b75bdc9f6eda" />
 
 
-
 <img width="1183" height="369" alt="image" src="https://github.com/user-attachments/assets/825c4560-7545-44c9-9363-a74a9a4abf2d" />
 
 
 <img width="765" height="597" alt="image" src="https://github.com/user-attachments/assets/c13acb49-7ec6-4bcf-a032-bc721eaea8ca" />
+
+
+<img width="1294" height="652" alt="image" src="https://github.com/user-attachments/assets/52080be4-627e-464a-a51c-47dcf4fce9dd" />
+
+
+<img width="3439" height="1347" alt="image" src="https://github.com/user-attachments/assets/58a84099-2313-4eb5-915b-b7cd1f9af166" />
+
+
+So our goal is to add a point light into our cube and making the light status change based on the Unlock and lock status.
