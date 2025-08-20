@@ -51,3 +51,13 @@ Whenever they mention that the point light and weapon component is childed to th
 When you're changing the turret it will be considered an instance and it will not change the original state of that blueprint actor (Turret). Each changes within the map would be an instance on its own and not the original at all.
 
 
+<img width="1352" height="664" alt="image" src="https://github.com/user-attachments/assets/65e27cc2-b11c-4086-acd2-762c1c841a0c" />
+
+
+<img width="3365" height="1352" alt="image" src="https://github.com/user-attachments/assets/29a914b3-dd40-4281-8685-7bfcc889965c" />
+
+
+Keep in mind that blueprints and code are actively translating the functions while you're playing in the editor.
+
+
+But once you packaged the game and that blueprint script running in the background will be gone since it is fully packaged.
