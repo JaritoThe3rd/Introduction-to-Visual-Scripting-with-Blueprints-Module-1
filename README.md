@@ -352,3 +352,20 @@ So we can change the variable in the editor enable instance editable
 
 
 Make sure the timer blueprints are on the ButtonUntriggered that was wrong that we placed it in the ButtonTriggered.
+
+<img width="1224" height="636" alt="image" src="https://github.com/user-attachments/assets/3fc77802-c382-4149-a373-cfa0f551a419" />
+
+
+<img width="737" height="803" alt="image" src="https://github.com/user-attachments/assets/db26fad9-7953-44b7-9def-2c8628ee392b" />
+
+
+<img width="737" height="363" alt="image" src="https://github.com/user-attachments/assets/1aa68759-0fb8-4732-9e84-a1336af7eaea" />
+
+
+<img width="710" height="442" alt="image" src="https://github.com/user-attachments/assets/0528f8da-1ffa-4d23-84bd-6369bb11846f" />
+
+
+<img width="714" height="419" alt="image" src="https://github.com/user-attachments/assets/152ca0df-1ac4-4b86-8d68-f4dd56b4d825" />
+
+
+<img width="759" height="610" alt="image" src="https://github.com/user-attachments/assets/13bb739e-aaec-4f8e-a0fb-3025966f5d30" />
